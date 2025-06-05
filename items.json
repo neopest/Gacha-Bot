@@ -1,0 +1,109 @@
+{
+  "items": [
+    {
+      "name": "Sticker",
+      "rarity": "Common",
+      "stock": 50,
+      "description": "Use this at night to send someone a message that's 15 words or less.",
+      "imageUrl": "https://i.imgur.com/9QBoaX1.png"
+    },
+    {
+      "name": "Potion",
+      "rarity": "Common",
+      "stock": 50,
+      "description": "2% ITA boost for a day.",
+      "imageUrl": "https://i.imgur.com/5F9NBZf.png"
+    },
+    {
+      "name": "Razz Berry",
+      "rarity": "Common",
+      "stock": 50,
+      "description": "3% ITA boost for a day.",
+      "imageUrl": "https://i.imgur.com/0ZIJY4f.png"
+    },
+    {
+      "name": "Poké Ball",
+      "rarity": "Common",
+      "stock": 50,
+      "description": "Fire 1 5% Silent ITA.",
+      "imageUrl": "https://i.imgur.com/LKV4gjV.png"
+    },
+    {
+      "name": "Super Potion",
+      "rarity": "Uncommon",
+      "stock": 25,
+      "description": "5% ITA boost for a day.",
+      "imageUrl": "https://i.imgur.com/bWg49so.png"
+    },
+    {
+      "name": "Raid Pass",
+      "rarity": "Uncommon",
+      "stock": 25,
+      "description": "Attend an extra Raid Battle!",
+      "imageUrl": "https://i.imgur.com/34zydby.png"
+    },
+    {
+      "name": "Nanab Berry",
+      "rarity": "Uncommon",
+      "stock": 25,
+      "description": "Fire 1 extra ITA.",
+      "imageUrl": "https://i.imgur.com/MgpfWY1.png"
+    },
+    {
+      "name": "Pinap Berry",
+      "rarity": "Uncommon",
+      "stock": 25,
+      "description": "This is a credit to spin the PokéStop again!",
+      "imageUrl": "https://i.imgur.com/CLvm1i3.png"
+    },
+    {
+      "name": "Gift",
+      "rarity": "Uncommon",
+      "stock": 25,
+      "description": "Neighborize someone as a night action. This will last for 1 cycle.",
+      "imageUrl": "https://i.imgur.com/xnLLvba.png"
+    },
+    {
+      "name": "Golden Razz Berry",
+      "rarity": "Rare",
+      "stock": 15,
+      "description": "15% ITA boost for a day.",
+      "imageUrl": "https://i.imgur.com/XbrNhV0.png"
+    },
+    {
+      "name": "Great Ball",
+      "rarity": "Rare",
+      "stock": 15,
+      "description": "Fire a silent ITA shot at the base hit rate (20%).",
+      "imageUrl": "https://i.imgur.com/4NQ9YDm.png"
+    },
+    {
+      "name": "Silver Pinap Berry",
+      "rarity": "Rare",
+      "stock": 15,
+      "description": "Spin the Pokestop 2 more times!",
+      "imageUrl": "https://i.imgur.com/pXsiYBU.png"
+    },
+    {
+      "name": "Egg",
+      "rarity": "Epic",
+      "stock": 10,
+      "description": "Use an Egg Incubator to unlock this prize.",
+      "imageUrl": "https://i.imgur.com/y33WB3J.png"
+    },
+    {
+      "name": "Egg Incubator",
+      "rarity": "Epic",
+      "stock": 10,
+      "description": "Use to access an egg.",
+      "imageUrl": "https://i.imgur.com/mUuipvJ.png"
+    },
+    {
+      "name": "Super Incubator",
+      "rarity": "Legendary",
+      "stock": 5,
+      "description": "Use to access 2 eggs.",
+      "imageUrl": "https://i.imgur.com/CfjwIOJ.png"
+    }
+  ]
+}
